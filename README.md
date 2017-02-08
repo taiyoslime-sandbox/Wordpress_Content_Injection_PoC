@@ -1,1 +1,2 @@
-# Wordpress_Content_Injection_PoC
+# Requipments
+- WordPress 4.7.0 / 4.7.1
